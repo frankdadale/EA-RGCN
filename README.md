@@ -1,6 +1,6 @@
-#Smart contract vulnerability detection based on semantic graph and residual graph convolutional networks with edge attention
+# Smart contract vulnerability detection based on semantic graph and residual graph convolutional networks with edge attention
 
-##Usage.
+## Usage.
 - Unzip  ```/utils/python-solidity-parser-master.zip```, and run ```python3 setup.py install```.
 - Configure the source code path in ```/utils/Sourcecode2AST.ipynb``` before running it.
 - Run ```SG.ipynb``` to convert AST files to **Semantic Graph** and **Edge Series**.
@@ -17,7 +17,8 @@
 - /utils/pytorchtools.py
 
 
-##Citation
+## Citation
+
 If you find this work helpful, please kindly cite our [paper](https://www.sciencedirect.com/science/article/pii/S0164121223001000?dgcid=coauthor).
 
 ```
